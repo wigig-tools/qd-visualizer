@@ -11,7 +11,7 @@ This repository contains a python application for visualizing scenarios simulate
 
 Here is a sample snapshot for our Q-D visualizer:
 
-![Snapshot for our Codebook Generator App](CodebookSnapshot.png)
+![Snapshot for our Codebook Generator App](qdSnapshot.png)
 
 # Download Information:
 We plan to release the App to the public around June 2019.
