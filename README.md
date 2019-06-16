@@ -1,5 +1,3 @@
-# qd-visualizer
-
 # Q-D visualizer
 This repository contains a python application for visualizing scenarios simulated in ns-3. 
 
