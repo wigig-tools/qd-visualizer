@@ -15,4 +15,7 @@ Here is a sample snapshot for our Q-D visualizer:
 We plan to release the App to the public around June 2019.
 
 # Author Information:
-The Q-D visualizer is developed and maintained by [Tanguy Ropitault].
+The Q-D visualizer is developed and maintained by [Tanguy Ropitault](https://www.nist.gov/people/tanguy-ropitault).
+
+# Release:
+The Q-D visualizer release date is August 2019
