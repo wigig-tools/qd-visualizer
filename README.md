@@ -12,8 +12,11 @@ Here is a sample snapshot for our Q-D visualizer:
 ![Snapshot for our Codebook Generator App](qdSnapshot.png)
 
 # Download Information:
-Just clone the repository.
+Just clone or download the repository.
 
 # Author Information:
 The Q-D visualizer is developed and maintained by [Tanguy Ropitault](https://www.nist.gov/people/tanguy-ropitault).
+
+# Installation
+Please refer to *"Install.txt"* document in the *"Source"* folder.
 
