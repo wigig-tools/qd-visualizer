@@ -17,5 +17,3 @@ Just clone the repository.
 # Author Information:
 The Q-D visualizer is developed and maintained by [Tanguy Ropitault](https://www.nist.gov/people/tanguy-ropitault).
 
-# Release:
-The Q-D visualizer release date is August 2019
