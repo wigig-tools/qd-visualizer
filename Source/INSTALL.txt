@@ -1,0 +1,18 @@
+To install the visualizer, we recommend to use anaconda. To do so, you need first to install Anaconda (https://www.anaconda.com/). 
+Please select the installation for Python version 3.7. Once Anaconda is installed, open the Anaconda Prompt and use the following command:
+$ conda create -n pyconda python=3.5 pyqt=4 
+$ activate pyconda
+Depending on the version of your operating system, pyqt4 may not be available and the command displayed above may not work. In this case, use the commands below:
+$ conda create -n pyconda python=3.5
+$ activate pyconda
+$ conda install -c anaconda pyqt=4.11.4
+
+Then:
+$ conda install -c menpo mayavi
+Then, install pyqtgraph:
+$ pip install pyqtgraph
+$ conda install -c anaconda pandas
+
+You should be ready to use the Q-D visualizer.
+
+
