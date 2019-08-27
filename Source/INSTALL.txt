@@ -4,7 +4,7 @@ $ conda create -n pyconda python=3.5 pyqt=4
 $ activate pyconda
 Depending on the version of your operating system, pyqt4 may not be available and the command displayed above may not work. In this case, use the commands below:
 $ conda create -n pyconda python=3.5
-$ activate pyconda
+$ conda activate pyconda
 $ conda install -c anaconda pyqt=4.11.4
 
 Then:
